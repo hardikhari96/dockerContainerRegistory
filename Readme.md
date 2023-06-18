@@ -1,7 +1,7 @@
  To Create Own Registry  first setup basic authentication
 
 ## Simple Way To Deploy
-* First setup Basic Authentication File
+* First setup Basic Authentication File , generate basic authentication with this module only 
     ```
     docker run \
     --entrypoint htpasswd \
